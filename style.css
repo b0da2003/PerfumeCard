@@ -97,7 +97,7 @@ button img{
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
 
-@media (600px <= width <= 1024px) {
+@media (600px <= width <= 1440px) {
  .container{
    display: grid;
    height: 90vh;
